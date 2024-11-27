@@ -1,0 +1,3 @@
+# So for the people who don't know how to install IPA's this is a tutorial on youtube on how to get them
+first download iTunes so you can get the actual IPA itself or else it'll save as a zip file **(⚠️ WEB VERSION⚠️  NOT MICROSOFT STORE VERSION)** heres a download for it since apple decided to take it off their website [drive link](https://drive.google.com/drive/folders/1l7FRB0rMSqHnwl3qrnoLe5vSuMKOjgpt?usp=drive_link).
+Also you have to have your phone plugged into your PC so your phone pops up on sideloadly then you want to download sideloadly https://sideloadly.io download it from there. Finally heres the youtube tutorial [YT Tutorial](https://youtu.be/BCZWrQ1lJMw)
