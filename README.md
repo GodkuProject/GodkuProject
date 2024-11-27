@@ -9,7 +9,7 @@ Official Godku Project repository, all mods, docs, info, and contacts will be he
 > **We have very specific and forced rules, please read the rules at [📔・rules](https://discord.com/channels/1246530075885568050/1246530077567750204)**
 
 
-## Moderators
+# Moderators
 > **darklaser38 (Owner)**
 > 
 > **mindset.dbl (admin/co-owner)**
@@ -37,3 +37,28 @@ Official Godku Project repository, all mods, docs, info, and contacts will be he
 > **theonlyjon (moderator)**
 > 
 > **darksaviour13 (moderator)**
+
+# level rewards
+```
+Level 1: @🪐 Base Form 🪐
+Level 3: @♦ Kaioken ♦
+Level 5: @💫 Super Saiyan 💫
+Level 7: @⚡ Super Saiyan 2 ⚡
+Level 10: @✨ Super Saiyan 3 ✨
+Level 15: @🐒 Super Saiyan 4 🐒
+Level 20: @🔥 Super Saiyan God 🔥
+Level 25: @🔹 Super Saiyan Blue 🔹
+Level 27: @💥 Super Saiyan Blue Kaioken 💥
+Level 30: @🌀 Super Saiyan Blue Evolution 🌀
+Level 35: @🌹 Super Saiyan Rosé 🌹
+Level 37: @🥀 Super Saiyan Rosé Evolved 🥀
+Level 40: @♎ Legendary Super Saiyan ♎
+Level 45: @💠 Ultra Instinct -Sign- 💠
+Level 47: @🌬 Mastered Ultra Instinct 🌬
+Level 50: @♑ Ultra Ego ♑
+Level 55: @◾ True Ultra Instinct ◾
+Level 60: @🌺 Super Saiyan 4 Limit Breaker 🌺
+Level 65: @🧊 Universal Super Saiyan Blue 🧊
+Level 70: @🔯 God Of Destruction 🔯
+Level 100: @Legendary warrior
+```
