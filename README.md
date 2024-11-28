@@ -33,8 +33,6 @@ Official Godku Project repository, all mods, docs, info, and contacts will be he
 > **bogeymamm2 (moderator)**
 > 
 > **blaster_vivek (moderator)**
->
-> **theonlyjon (moderator)**
 > 
 > **darksaviour13 (moderator)**
 
