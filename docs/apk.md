@@ -102,6 +102,6 @@
 # VISUAL
 > - All Shallot : Make all the unit be shallot (Cannot enter any matchs, purely visual)
 
-# SHALLOT CUSTOMOZATION
+# SHALLOT CUSTOMIZATION
 > - Shallot Outfit : Let you use the two limited outfit : Satan outfit and showdown outfit (Work in pvp) 
 > - Shallot transformation : Let you use any transformation without owning it (useful for new account, work in pvp)
