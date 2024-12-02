@@ -66,11 +66,7 @@
 > - If you want to get the ids i recommand you the [DBLegends.net](https://dblegends.net) website. At the end of the url of a character page there will be a number. This number is the character id.
 
 # CAN I USE THAT MOD WITH AN PC EMULATOR
-> - The mod have been tested for this :
-> - 32 Bit version on android 7 64 Bit rom with nox and bluestack.
-> - Other configuration can maybe work but haven't been tested.
-> - Compatibility has been FULLY fixed
-> - Mod Menu now work with every emulator and rom.
+> - Mod is compatible with every emulator.
 
 # COMMON ISSUES
 > - I'm getting a mod menu expired error : The menu need to be updated.
