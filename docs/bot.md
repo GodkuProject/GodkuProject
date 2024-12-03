@@ -1,4 +1,4 @@
-## Godku and Gogeta Blue bot tutorial
+## Godku bot tutorial
 # How to get the 89bb file for android :
 > - Install File manager plus or zarchiver on the play store.
 > - If you have android 12 or newer you need shizuku in order to get the access to the folder. (You can ask for help in the help channel for how to configure shizuku)
