@@ -6,57 +6,68 @@
 > - Defense Multiplier
 
 # BASIC MODS
-> - Instant Win, Make you instantly win the match in pve
-> - One Wave Win, Kill one enemy or get killed to win
-> - Stupid AI, Make the AI stand still
+> - Instant Win : Make you instantly win the match in pve
+> - One Wave Win : Kill one enemy or get killed to win
+> - Stupid AI : Make the AI stand still
 > - All Challenge Complete
 > - Unlimited Rising Rush
-> - Freeze Time, Freeze the timer in battle
+> - Freeze Time : Freeze the timer in battle
 > - Unlimited Vanish
-> - No swap Cd, You can switch character without waiting for the cooldown
+> - No swap Cd : You can switch character without waiting for the cooldown
 > - Unlimited Ki
 > - All Card give Dragon balls
+> - Instant Fusion : Let you instantly fuse with fusion tag unit
+> - Red Artboost attack : Make your attack have the red artboost effect on every hit
 > - SpeedHack, Increase game speed
 
 # UNIQUE GAUGE MODS
-> - Unlimited Unique Gauge, Make the game give you full gauge for every action (using a card, getting hit, tag switch...)
-> - Longer Time Skip, Make hit timeskip longer
+> - Unlimited Unique Gauge : Make the game give you full gauge for every action (using a card, getting hit, tag switch...)
+> - Longer Time Skip : Make hit timeskip longer
 
 # PVP MODS
-> - Always Win Strike Clash, Give you 999 as the clash result
-> - PVP Bots, Face bots in pvp while activated
+> - Always Win Strike Clash : Give you 999 as the clash result
+> - PVP Bots : Face bots in pvp while activated
 
 # INJECTIONS MODS
 > - 14 stars
 > - Zenkai 7
 > - Max Soulboost
 > - Max Artboost
-> - Level Hack, Make your character level 9999
-> - Remove Team Limit, Let you play all your characters in the battle
+> - Level Hack : Make your character level 9999
+> - Remove Team Limit : Let you play all your characters in the battle
 
 # CHARACTER MODDING SLOT
 > - This is where you configure the blue card and green card mod.
 
 # CHARACTER MODDING
-> - Blue Card Change, Turn on the blue card mod
-> - Green Card Change, Same for green card
-> - Color Change, Change your character colors
+> - Blue Card Change : Turn on the blue card mod
+> - Green Card Change : Same for green card
+> - Color Change : Change your character colors
+> - Rarity Change : Change your character rarity 
 
 # SUMMONS
-> - Animation Mod, Let you change the animation Rarity. (DOES NOT ACT AS A FORCE DROP)
+> - Animation Mod : Let you change the animation Rarity. (DOES NOT ACT AS A FORCE DROP)
 
 # VISUAL MODS
-> - Dark Character, Let you give dark ki to your characters
-> - God Rank, Give you the visual effect of god rank
-> - God stars, Give you the god star that appear after being multiple time godly
-> - Premium Account, Give you the premium pass effect
-> - View Card, Let you view what card is gonna get draw next time
-> - Zenkai Sleeve, Give the you the zenkai character sleeve even if you don't have them zenkai
-> - FOV, Change the field of view in game
+> - Dark Character : Let you give dark ki to your characters
+> - God Rank : Give you the visual effect of god rank
+> - God stars : Give you the god star that appear after being multiple time godly
+> - Premium Account : Give you the premium pass effect
+> - View Card : Let you view what card is gonna get draw next time
+> - Zenkai Sleeve : Give the you the zenkai character sleeve even if you don't have them zenkai
+> - All Shallot : Make all the unit be shallot (Cannot enter any matchs, purely visual)
+> - FOV : Change the field of view in game
 
 # STAGE SELECTER
 > - Let you change what stage is gonna be used for the battle.
 
+# SHALLOT CUSTOMIZATION
+> - Shallot Outfit : Let you use the two limited outfit : Satan outfit and showdown outfit (Work in pvp) 
+> - Shallot transformation : Let you use any transformation without owning it (useful for new account, work in pvp)
+
+# SKIP TUTO
+> - Integrated into the menu : no switch or action needed
+> - New account skip broly fight : game intro, king kai tutorial, and gamemodes unlocked.
 
 # HOW TO USE THE CARD MOD
 > - The Giver ID correspond to the Character that will give the card
@@ -89,19 +100,7 @@
 > - Events, Story, Friend Battle.
 
 # CAN'T USE:
-> - PvP (Treasure Battle, Training Battle, Rating Match, Legends Battle Royale).
+> - PvP (Treasure Battle, Training Battle, Rating Match, Legends Battle Royale), Except Mods Placed in the PVP category.
 > - Full Power Battle (PvE event, Mods work but risk of warns).
 > - Co-op And Raid (Can use only with someone who use instant win with Godku, means using only with your friend in private lobby).
 > - Top (Mods just doesn't work or only visual)
-
-## NEW FEATURES STARTING FROM 2.1.0
-# SKIP TUTO
-> - Integrated into the menu, no switch or action needed
-> - New account skip broly fight, game intro, king kai tutorial, and gamemodes unlocked.
-
-# VISUAL
-> - All Shallot : Make all the unit be shallot (Cannot enter any matchs, purely visual)
-
-# SHALLOT CUSTOMIZATION
-> - Shallot Outfit : Let you use the two limited outfit : Satan outfit and showdown outfit (Work in pvp) 
-> - Shallot transformation : Let you use any transformation without owning it (useful for new account, work in pvp)
